@@ -23,7 +23,7 @@ Python 기초부터 시작해 LLM 애플리케이션 개발까지 내용을 담�
 PDF/음성 자료 요약, 문서 기반 QA, 스터디 플래너 등을 제공하며 Streamlit으로 배포했습니다.
 [🔗 라이브 데모](https://llmproject-zhdc4bbm5khcvwnhstm6av.streamlit.app/)
 
-**[Python Projects](https://github.com/SiBaekLee/Python_Projects_2021)** — 암호화/복호화기, 멀티 웹 검색 어시스턴트 등 파이썬 입문기 프로젝트 모음 (예외 처리 중심)
+**[Python Projects](https://github.com/SiBaekLee/Python_Projects_2021)** — 암호화/복호화기, 멀티 웹 검색 어시스턴트 등 파이썬 입문기 프로젝트 모음
 
 **[Baekjoon](https://github.com/SiBaekLee/Baekjoon)** — 백준 알고리즘 풀이 기록 (자동 푸시)
 
