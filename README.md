@@ -1,8 +1,8 @@
 <!--
 프로필 README 사용법:
-  1. 본인 계정 이름과 동일한 저장소를 새로 생성 → 이름: SiBaekLee
-  2. 그 저장소에 이 내용을 README.md 로 추가
-  3. 프로필 상단에 자동으로 표시됩니다
+1. 본인 계정 이름과 동일한 저장소를 새로 생성 → 이름: SiBaekLee
+2. 그 저장소에 이 내용을 README.md 로 추가
+3. 프로필 상단에 자동으로 표시됩니다
 -->
 
 # 안녕하세요, 유진현입니다 👋
@@ -23,7 +23,8 @@ Python 기초부터 시작해 LLM 애플리케이션 개발까지 내용을 담�
 PDF/음성 자료 요약, 문서 기반 QA, 스터디 플래너 등을 제공하며 Streamlit으로 배포했습니다.
 [🔗 라이브 데모](https://llmproject-zhdc4bbm5khcvwnhstm6av.streamlit.app/)
 
-**[Python Projects](https://github.com/SiBaekLee/Python_Projects_2021)** — 암호화/복호화기, 멀티 웹 검색 어시스턴트 등 파이썬 입문기 프로젝트 모음
+**[Paper-Review](https://github.com/SiBaekLee/Paper-Review)** — Computer Vision / AI 분야 논문 리뷰 슬라이드 모음
+SIGGRAPH 2025 등 주요 학회 논문을 읽고 핵심 아이디어와 방법론을 정리한 발표 자료
 
 **[Baekjoon](https://github.com/SiBaekLee/Baekjoon)** — 백준 알고리즘 풀이 기록 (자동 푸시)
 
