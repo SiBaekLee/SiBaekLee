@@ -33,6 +33,10 @@ PDF/음성 자료 요약, 문서 기반 QA, 스터디 플래너 등을 제공하
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiBaekLee&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiBaekLee&layout=compact)
 
+## 🏆 백준 / solved.ac
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sibaek)](https://solved.ac/profile/sibaek)
+
 ## 📫 연락처
 
 - Email: jinhyeon1215@gmail.com
