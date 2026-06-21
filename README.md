@@ -28,6 +28,11 @@ SIGGRAPH 2025 등 주요 학회 논문을 읽고 핵심 아이디어와 방법�
 
 **[Baekjoon](https://github.com/SiBaekLee/Baekjoon)** — 백준 알고리즘 풀이 기록 (자동 푸시)
 
+## 📚 Study Notes / 공부 기록
+
+**[deep-learning-notes](https://github.com/SiBaekLee/deep-learning-notes)** — 딥러닝 핵심 개념 정리 노트
+CNN 아키텍처(VGGNet · InceptionNet · ResNet), RNN · LSTM · GRU, Feature Map 크기 공식 등을 기술면접 대비 관점에서 직접 정리한 학습 기록
+
 ## 📈 GitHub 통계
 
 <!-- 사용자명만 본인 것으로 유지하면 자동 렌더링됩니다 -->
