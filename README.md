@@ -19,7 +19,7 @@ Python 기초부터 시작해 LLM 애플리케이션 개발까지 내용을 담�
 
 ## 🚀 대표 프로젝트
 
-**[AI 스터디메이트](https://github.com/SiBaekLee/LLM_Project)** — LangChain · RAG · Whisper · GPT-4o 기반 멀티모달 AI 학습 도우미
+**[AI 스터디메이트](https://github.com/SiBaekLee/LLM_Project)** — LangChain · RAG · Whisper · GPT-4o · Gemini 기반 멀티모달 AI 학습 도우미
 PDF/음성 자료 요약, 문서 기반 QA, 스터디 플래너 등을 제공하며 Streamlit으로 배포했습니다.
 [🔗 라이브 데모](https://llmproject-zhdc4bbm5khcvwnhstm6av.streamlit.app/)
 
